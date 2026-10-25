@@ -1,61 +1,61 @@
 {
- "generated": "2026-10-24",
+ "generated": "2026-10-25",
  "topics": [
   {
    "title": "A Darkness unto Itself: A Response to \"The Superdark Factory\"",
    "source": "2026-reads",
    "url": "https://tripleampersand.org/a-darkness-unto-itself/",
-   "summary": "(dry run) A Darkness unto Itself: A Response to \"The Superdark Factory\"",
-   "deep": "(dry run) Placeholder deep-dive for A Darkness unto Itself: A Response to \"The Superdark Factory\".\n\nA Darkness unto Itself: A Response to \"The Superdark Factory\" - TripleAmpersand Journal (&&&)TripleAmpersand Journal (&&&) TripleAmpersand Journal (&&&) Articles Books About October 16, 2026 Original Image: Carl Grossberg, The Paper Machine (Die Papiermaschine), 1934. A Darkness unto Itself: A Response to \"The Superdark Factory\" Reza Negarestani / Share Facebook Twitter The question shared by Deep Objects, Broken Metabolism 1 and The Superdark Factory 2 pertains to the fate of agency once cognition is distributed across organizations whose tempo and differentiation outstrip individual apprehen"
+   "summary": "",
+   "deep": "No summary today. Read it at https://tripleampersand.org/a-darkness-unto-itself/"
   },
   {
    "title": "How employment is changing at Anthropic",
    "source": "2026-reads",
    "url": "https://www.anthropic.com/research/employment-at-anthropic",
-   "summary": "(dry run) How employment is changing at Anthropic",
-   "deep": "(dry run) Placeholder deep-dive for How employment is changing at Anthropic.\n\nHow employment is changing at Anthropic \\ Anthropic Skip to main content Nathan Wilmers, Regina Catipon, Maxim Massenkoff, Peter McCrory How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy. Key findings Anthropic has been hiring for a smaller share of junior technical positions. This occurred as hours worked by AI agents relative to employees rapidly expanded. By August interactive AI agent hours outnumbered employees' six"
+   "summary": "",
+   "deep": "No summary today. Read it at https://www.anthropic.com/research/employment-at-anthropic"
   },
   {
    "title": "Neural Networks Are Already Clean",
    "source": "2026-reads",
    "url": "https://already-clean.goodfire.com/",
-   "summary": "(dry run) Neural Networks Are Already Clean",
-   "deep": "(dry run) Placeholder deep-dive for Neural Networks Are Already Clean.\n\nNeural Networks Are Already Clean Skip to essay Neural Networks Are Already Clean The cause of polysemanticity in early model organisms wasn't superposition, but several ordinary, mostly fixable issues. We can now understand most neurons in models up to trillions of parameters, and think the outlook for mechanistic interpretability may be far better than we thought. Nick Cammarata  Goodfire A working hypothesis  65-minute read  Text version  Prior work  With contributions from Curt Tigges ( language neuron research ) and Tarun Gogineni (editing) The Short Version I think I have good news"
+   "summary": "",
+   "deep": "No summary today. Read it at https://already-clean.goodfire.com/"
   },
   {
    "title": "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity",
    "source": "2026-reads",
    "url": "https://arxiv.org/html/2510.01171v4",
-   "summary": "(dry run) Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity",
-   "deep": "(dry run) Placeholder deep-dive for Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity.\n\nVerbalized Sampling:How to Mitigate Mode Collapse and Unlock LLM Diversity Skip to main content Title: Content selection saved. Describe the issue below: Description: License: CC BY-NC-ND 4.0 arXiv:2510.01171v4 [cs.CL] 15 Jul 2026 Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity Jiayi Zhang Affiliation: Northeastern University Simon Yu Affiliation: Northeastern University Derek Chong Affiliation: Stanford University Anthony Sicilia Affiliation: West Virginia University Michael R. Tomz Affiliation: Stanford University Christopher D. Manning Affiliation: Stanford Unive"
+   "summary": "",
+   "deep": "No summary today. Read it at https://arxiv.org/html/2510.01171v4"
   },
   {
    "title": "The high-return activity of raising others' aspirations",
    "source": "2026-reads",
    "url": "https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html",
-   "summary": "(dry run) The high-return activity of raising others' aspirations",
-   "deep": "(dry run) Placeholder deep-dive for The high-return activity of raising others' aspirations.\n\nThe high-return activity of raising others' aspirations - Marginal REVOLUTION Thank-you! You've been successfully added to the Marginal Revolution email subscription list. Yesterday I had lunch with a former Ph.D student of mine, who is now highly successful and tenured at a very good school. I was reminded that, over twenty years ago, I was Graduate Director of Admissions. One of my favorite strategies was to take strong candidates who applied for Masters and also offer them Ph.D admissions, suggesting they might to do the latter. My lunch partner was a beneficiary of this de facto policy. At"
+   "summary": "",
+   "deep": "No summary today. Read it at https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html"
   },
   {
-   "title": "Roku developer repositories moved from GitHub to GitLab",
+   "title": "Tool book of a Nuremberg knight from 1505",
    "source": "Hacker News",
-   "url": "https://blog.roku.com/developer/gitlab-move",
-   "summary": "(dry run) Roku developer repositories moved from GitHub to GitLab",
-   "deep": "(dry run) Placeholder deep-dive for Roku developer repositories moved from GitHub to GitLab.\n\nRoku"
+   "url": "https://loeffelholz-codex.org/en/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://loeffelholz-codex.org/en/"
   },
   {
-   "title": "Dream-1",
+   "title": "Show HN: Farol - a risk map of a pull request for the person who approves it",
    "source": "Hacker News",
-   "url": "https://dreamlabs.ai/research/dream-1/",
-   "summary": "(dry run) Dream-1",
-   "deep": "(dry run) Placeholder deep-dive for Dream-1.\n\nZero-Shot to New Robots: Introducing Dream-1 | Dream Labs Skip to content 00:00 / 01:59 Launch video Give Dream-1 a new bimanual robot with parallel grippers, connect it to our API, and it can start performing tasks out of the box. No fine-tuning, no demonstrations from that robot, and no machine learning expertise required. This is an important step toward general-purpose robot intelligence. Today, Dream Labs is also coming out of stealth with $90M in seed funding and making Dream-1 available to people all around the world through a public API. 01 Breaking the chicken-and-egg problem Robotics"
+   "url": "https://github.com/winnin/farol",
+   "summary": "",
+   "deep": "No summary today. Read it at https://github.com/winnin/farol"
   },
   {
-   "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+   "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
    "source": "Hacker News",
-   "url": "https://de.numista.com/9866",
-   "summary": "(dry run) The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-   "deep": "(dry run) Placeholder deep-dive for The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise.\n\n5 Pence - Elizabeth II (3rd portrait; small type) - Saint Helena and Ascension - Numista  MMowiec Besonderheiten Emittent Saint Helena and Ascension (Ascension und Tristan da Cunha St. Helena) Konigin Elisabeth II. ( 1952-2022 ) Typ Standard-Umlaufmunze Jahre 1998-2006 Wert 5 Pence (0,05) Wahrung Pound ( 1976-date ) Material Kupfer-Nickel Gewicht 3,25 g Durchmesser 18 mm Dicke 1,70 mm Form Rund Technik Maschinengepragt Ausrichtung Kehrpragung  Nummer N# 9866 Referenzen KM # 22 Standard Catalog of World Coins (86 volumes). 9 Tauschangebote ansehen Verkaufsangebote ansehen Vorderseite Gekront"
+   "url": "https://github.com/ihhub/fheroes2",
+   "summary": "",
+   "deep": "No summary today. Read it at https://github.com/ihhub/fheroes2"
   }
  ]
 }
