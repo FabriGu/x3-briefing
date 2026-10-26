@@ -1,6 +1,13 @@
 {
- "generated": "2026-10-25",
+ "generated": "2026-10-26",
  "topics": [
+  {
+   "title": "Re-evaluating Open-ended Evaluation of Large Language Models",
+   "source": "2026-reads",
+   "url": "https://arxiv.org/pdf/2502.20170",
+   "summary": "",
+   "deep": "No summary today. Read it at https://arxiv.org/pdf/2502.20170"
+  },
   {
    "title": "A Darkness unto Itself: A Response to \"The Superdark Factory\"",
    "source": "2026-reads",
@@ -30,32 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/html/2510.01171v4"
   },
   {
-   "title": "The high-return activity of raising others' aspirations",
-   "source": "2026-reads",
-   "url": "https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html",
+   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+   "source": "Hacker News",
+   "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
    "summary": "",
-   "deep": "No summary today. Read it at https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html"
+   "deep": "No summary today. Read it at https://magazine.sebastianraschka.com/p/building-reasoning-models"
   },
   {
-   "title": "Tool book of a Nuremberg knight from 1505",
+   "title": "CSS-Tricks has a new owner",
    "source": "Hacker News",
-   "url": "https://loeffelholz-codex.org/en/",
+   "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
    "summary": "",
-   "deep": "No summary today. Read it at https://loeffelholz-codex.org/en/"
+   "deep": "No summary today. Read it at https://css-tricks.com/css-tricks-has-a-new-owner/"
   },
   {
-   "title": "Show HN: Farol - a risk map of a pull request for the person who approves it",
+   "title": "Anthropic S-1",
    "source": "Hacker News",
-   "url": "https://github.com/winnin/farol",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
    "summary": "",
-   "deep": "No summary today. Read it at https://github.com/winnin/farol"
-  },
-  {
-   "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-   "source": "Hacker News",
-   "url": "https://github.com/ihhub/fheroes2",
-   "summary": "",
-   "deep": "No summary today. Read it at https://github.com/ihhub/fheroes2"
+   "deep": "No summary today. Read it at https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
   }
  ]
 }
