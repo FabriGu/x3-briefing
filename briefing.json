@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-10-27",
  "topics": [
   {
    "title": "Re-evaluating Open-ended Evaluation of Large Language Models",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/html/2510.01171v4"
   },
   {
-   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+   "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
    "source": "Hacker News",
-   "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
    "summary": "",
-   "deep": "No summary today. Read it at https://magazine.sebastianraschka.com/p/building-reasoning-models"
+   "deep": "No summary today. Read it at https://www.wiz.io/blog/php2shell-exploitation-so-far"
   },
   {
-   "title": "CSS-Tricks has a new owner",
+   "title": "Python's experimental JIT to be removed",
    "source": "Hacker News",
-   "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
    "summary": "",
-   "deep": "No summary today. Read it at https://css-tricks.com/css-tricks-has-a-new-owner/"
+   "deep": "No summary today. Read it at https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
   },
   {
-   "title": "Anthropic S-1",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
    "source": "Hacker News",
-   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+   "deep": "No summary today. Read it at https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
   }
  ]
 }
