@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-28",
  "topics": [
   {
    "title": "Re-evaluating Open-ended Evaluation of Large Language Models",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/html/2510.01171v4"
   },
   {
-   "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+   "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
    "source": "Hacker News",
-   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+   "url": "https://emudhra.we-have-a-problem.com/apple.html",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.wiz.io/blog/php2shell-exploitation-so-far"
+   "deep": "No summary today. Read it at https://emudhra.we-have-a-problem.com/apple.html"
   },
   {
-   "title": "Python's experimental JIT to be removed",
+   "title": "CNC Stone Carving",
    "source": "Hacker News",
-   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "url": "https://carmelitegothic.com/cnc-stone-carving/",
    "summary": "",
-   "deep": "No summary today. Read it at https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
+   "deep": "No summary today. Read it at https://carmelitegothic.com/cnc-stone-carving/"
   },
   {
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "title": "Dayjob: Tax - evaluating AI agents on 50 professional tax assignments",
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "url": "https://surgehq.ai/blog/dayjob-tax",
    "summary": "",
-   "deep": "No summary today. Read it at https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+   "deep": "No summary today. Read it at https://surgehq.ai/blog/dayjob-tax"
   }
  ]
 }
