@@ -1,6 +1,20 @@
 {
- "generated": "2026-10-29",
+ "generated": "2026-10-30",
  "topics": [
+  {
+   "title": "How We're Training a Figma-Fluent Editing Model",
+   "source": "2026-reads",
+   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
+  },
+  {
+   "title": "Scaling Transformer Energy-Based Models for High Quality Image Synthesis",
+   "source": "2026-reads",
+   "url": "https://int-lee.github.io/scalable-ebm/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://int-lee.github.io/scalable-ebm/"
+  },
   {
    "title": "Training Reve 2.0 at scale",
    "source": "2026-reads",
@@ -23,39 +37,25 @@
    "deep": "No summary today. Read it at https://tripleampersand.org/a-darkness-unto-itself/"
   },
   {
-   "title": "How employment is changing at Anthropic",
-   "source": "2026-reads",
-   "url": "https://www.anthropic.com/research/employment-at-anthropic",
-   "summary": "",
-   "deep": "No summary today. Read it at https://www.anthropic.com/research/employment-at-anthropic"
-  },
-  {
-   "title": "Neural Networks Are Already Clean",
-   "source": "2026-reads",
-   "url": "https://already-clean.goodfire.com/",
-   "summary": "",
-   "deep": "No summary today. Read it at https://already-clean.goodfire.com/"
-  },
-  {
-   "title": "We're releasing the weights of Mistral Large 4",
+   "title": "AI Isn't Replacing SREs. It's Deskilling Them",
    "source": "Hacker News",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "summary": "",
-   "deep": "No summary today. Read it at https://mistral.ai/news/mistral-large-4-oss/"
+   "deep": "No summary today. Read it at https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
   },
   {
-   "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
+   "title": "Northflank Breached",
    "source": "Hacker News",
-   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "url": "https://status.northflank.com",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.kadoa.com/companies/insights/google-search-below-half"
+   "deep": "No summary today. Read it at https://status.northflank.com"
   },
   {
-   "title": "H.264 Is Magic (2016)",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
    "source": "Hacker News",
-   "url": "https://sidbala.com/h-264-is-magic/",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
    "summary": "",
-   "deep": "No summary today. Read it at https://sidbala.com/h-264-is-magic/"
+   "deep": "No summary today. Read it at https://phorion.io/blog/offical-claude-code-vsx-compromise/"
   }
  ]
 }
