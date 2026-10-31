@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30",
+ "generated": "2026-10-31",
  "topics": [
   {
    "title": "How We're Training a Figma-Fluent Editing Model",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://tripleampersand.org/a-darkness-unto-itself/"
   },
   {
-   "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+   "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
    "source": "Hacker News",
-   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "url": "https://piefed.world/post/1503394",
    "summary": "",
-   "deep": "No summary today. Read it at https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+   "deep": "No summary today. Read it at https://piefed.world/post/1503394"
   },
   {
-   "title": "Northflank Breached",
+   "title": "We Took over ChatGPT Accounts",
    "source": "Hacker News",
-   "url": "https://status.northflank.com",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
    "summary": "",
-   "deep": "No summary today. Read it at https://status.northflank.com"
+   "deep": "No summary today. Read it at https://www.parameter.ai/labs/we-found-a-gap-at-openai"
   },
   {
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "title": "Serbia just elected the world's brainiest parliament",
    "source": "Hacker News",
-   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
    "summary": "",
-   "deep": "No summary today. Read it at https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+   "deep": "No summary today. Read it at https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament"
   }
  ]
 }
