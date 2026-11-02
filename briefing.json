@@ -1,6 +1,13 @@
 {
- "generated": "2026-11-01",
+ "generated": "2026-11-02",
  "topics": [
+  {
+   "title": "The Commanding Heights",
+   "source": "2026-reads",
+   "url": "https://commanding-heights.com/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://commanding-heights.com/"
+  },
   {
    "title": "How We're Training a Figma-Fluent Editing Model",
    "source": "2026-reads",
@@ -30,32 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/pdf/2502.20170"
   },
   {
-   "title": "A Darkness unto Itself: A Response to \"The Superdark Factory\"",
-   "source": "2026-reads",
-   "url": "https://tripleampersand.org/a-darkness-unto-itself/",
+   "title": "Astra can read and write weights to improve Qwen",
+   "source": "Hacker News",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
    "summary": "",
-   "deep": "No summary today. Read it at https://tripleampersand.org/a-darkness-unto-itself/"
+   "deep": "No summary today. Read it at https://rikiyat.github.io/blog/weight-space-programming/"
   },
   {
-   "title": "Show HN: HackerBooks - HackerTube, but for books recommended on HN",
+   "title": "Launch HN: Momentic (YC W24) - Agents that catch bugs by using your app",
    "source": "Hacker News",
-   "url": "https://hackerbooks.org",
+   "url": "https://momentic.ai/",
    "summary": "",
-   "deep": "No summary today. Read it at https://hackerbooks.org"
+   "deep": "No summary today. Read it at https://momentic.ai/"
   },
   {
-   "title": "HackerTube: YouTube built from videos recommended by HN",
+   "title": "US boy names that became girl names and vice versa",
    "source": "Hacker News",
-   "url": "https://karpathy.bearblog.dev/hacker-tube/",
+   "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
    "summary": "",
-   "deep": "No summary today. Read it at https://karpathy.bearblog.dev/hacker-tube/"
-  },
-  {
-   "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-   "source": "Hacker News",
-   "url": "https://www.ajupress.com/view/20261028171670308",
-   "summary": "",
-   "deep": "No summary today. Read it at https://www.ajupress.com/view/20261028171670308"
+   "deep": "No summary today. Read it at https://namedaisy.com/blog/boy-names-that-became-girl-names"
   }
  ]
 }
