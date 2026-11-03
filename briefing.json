@@ -1,6 +1,20 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "topics": [
+  {
+   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+   "source": "2026-reads",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://rikiyat.github.io/blog/weight-space-programming/"
+  },
+  {
+   "title": "Surya - For the love of the game (Creative Conviction)",
+   "source": "2026-reads",
+   "url": "https://creativeconviction.ai/interviews/surya/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://creativeconviction.ai/interviews/surya/"
+  },
   {
    "title": "The Commanding Heights",
    "source": "2026-reads",
@@ -23,39 +37,25 @@
    "deep": "No summary today. Read it at https://int-lee.github.io/scalable-ebm/"
   },
   {
-   "title": "Training Reve 2.0 at scale",
-   "source": "2026-reads",
-   "url": "https://app.reve.com/training-infra",
-   "summary": "",
-   "deep": "No summary today. Read it at https://app.reve.com/training-infra"
-  },
-  {
-   "title": "Re-evaluating Open-ended Evaluation of Large Language Models",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/pdf/2502.20170",
-   "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/pdf/2502.20170"
-  },
-  {
-   "title": "Astra can read and write weights to improve Qwen",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
    "source": "Hacker News",
-   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "summary": "",
-   "deep": "No summary today. Read it at https://rikiyat.github.io/blog/weight-space-programming/"
+   "deep": "No summary today. Read it at https://github.com/postmanlabs/postman-app-support/issues/14370"
   },
   {
-   "title": "Launch HN: Momentic (YC W24) - Agents that catch bugs by using your app",
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
    "source": "Hacker News",
-   "url": "https://momentic.ai/",
+   "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
    "summary": "",
-   "deep": "No summary today. Read it at https://momentic.ai/"
+   "deep": "No summary today. Read it at https://blog.nns.ee/2026/11/02/renault-hack/"
   },
   {
-   "title": "US boy names that became girl names and vice versa",
+   "title": "Mac at Any Scale",
    "source": "Hacker News",
-   "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+   "url": "https://namespace.so/blog/mac-at-any-scale",
    "summary": "",
-   "deep": "No summary today. Read it at https://namedaisy.com/blog/boy-names-that-became-girl-names"
+   "deep": "No summary today. Read it at https://namespace.so/blog/mac-at-any-scale"
   }
  ]
 }
