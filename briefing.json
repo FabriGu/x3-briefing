@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03",
+ "generated": "2026-11-04",
  "topics": [
   {
    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://int-lee.github.io/scalable-ebm/"
   },
   {
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
    "source": "Hacker News",
-   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "summary": "",
-   "deep": "No summary today. Read it at https://github.com/postmanlabs/postman-app-support/issues/14370"
+   "deep": "No summary today. Read it at https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
   },
   {
-   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "title": "Progress on provable inference for large language models",
    "source": "Hacker News",
-   "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+   "url": "https://www.anthropic.com/research/provable-inference",
    "summary": "",
-   "deep": "No summary today. Read it at https://blog.nns.ee/2026/11/02/renault-hack/"
+   "deep": "No summary today. Read it at https://www.anthropic.com/research/provable-inference"
   },
   {
-   "title": "Mac at Any Scale",
+   "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
    "source": "Hacker News",
-   "url": "https://namespace.so/blog/mac-at-any-scale",
+   "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
    "summary": "",
-   "deep": "No summary today. Read it at https://namespace.so/blog/mac-at-any-scale"
+   "deep": "No summary today. Read it at https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/"
   }
  ]
 }
