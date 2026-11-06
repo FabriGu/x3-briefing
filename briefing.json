@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-06",
  "topics": [
   {
    "title": "Adapting Frechet Audio Distance for Generative Music Evaluation",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/html/2606.21670v1"
   },
   {
-   "title": "sshole",
+   "title": "Deus Ex",
    "source": "Hacker News",
-   "url": "https://sshhole.com",
+   "url": "https://www.filfre.net/2026/11/deus-ex/",
    "summary": "",
-   "deep": "No summary today. Read it at https://sshhole.com"
+   "deep": "No summary today. Read it at https://www.filfre.net/2026/11/deus-ex/"
   },
   {
-   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
    "source": "Hacker News",
-   "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
    "summary": "",
-   "deep": "No summary today. Read it at https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+   "deep": "No summary today. Read it at https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
   },
   {
-   "title": "Motorola Signature 27 with GrapheneOS support",
+   "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
    "source": "Hacker News",
-   "url": "https://motorolanews.com/motorola-signature-27-2/",
+   "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
    "summary": "",
-   "deep": "No summary today. Read it at https://motorolanews.com/motorola-signature-27-2/"
+   "deep": "No summary today. Read it at https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air"
   }
  ]
 }
