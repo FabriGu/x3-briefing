@@ -1,6 +1,13 @@
 {
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "topics": [
+  {
+   "title": "The components of agent memory (Anthropic)",
+   "source": "2026-reads",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "summary": "",
+   "deep": "No summary today. Read it at https://www.anthropic.com/research/components-of-agent-memory"
+  },
   {
    "title": "An AI Bubble is a human data problem",
    "source": "2026-reads",
@@ -30,32 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/pdf/2402.04229"
   },
   {
-   "title": "What You Hear Is What You See: Audio Quality Metrics From Image Quality Metrics",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/html/2305.11582v2",
+   "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+   "source": "Hacker News",
+   "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
    "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/html/2305.11582v2"
+   "deep": "No summary today. Read it at https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
   },
   {
-   "title": "The $8 Linux Computer (2022)",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
    "source": "Hacker News",
-   "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+   "url": "https://github.com/synchopate/llama-modchip",
    "summary": "",
-   "deep": "No summary today. Read it at http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
+   "deep": "No summary today. Read it at https://github.com/synchopate/llama-modchip"
   },
   {
-   "title": "Need for Speed Underground 2 online in the browser",
+   "title": "The Reconstruction of Torn Documents",
    "source": "Hacker News",
-   "url": "https://nfsu2.xyz/",
+   "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
    "summary": "",
-   "deep": "No summary today. Read it at https://nfsu2.xyz/"
-  },
-  {
-   "title": "Libghostty 1.0",
-   "source": "Hacker News",
-   "url": "https://mitchellh.com/writing/libghostty-1-0",
-   "summary": "",
-   "deep": "No summary today. Read it at https://mitchellh.com/writing/libghostty-1-0"
+   "deep": "No summary today. Read it at https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/"
   }
  ]
 }
