@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "topics": [
   {
    "title": "The components of agent memory (Anthropic)",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/pdf/2402.04229"
   },
   {
-   "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+   "title": "USPS now offers official ZIP Code boundary polygons",
    "source": "Hacker News",
-   "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+   "url": "https://postalpro.usps.com/zcb",
    "summary": "",
-   "deep": "No summary today. Read it at https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
+   "deep": "No summary today. Read it at https://postalpro.usps.com/zcb"
   },
   {
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
    "source": "Hacker News",
-   "url": "https://github.com/synchopate/llama-modchip",
+   "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
    "summary": "",
-   "deep": "No summary today. Read it at https://github.com/synchopate/llama-modchip"
+   "deep": "No summary today. Read it at https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
   },
   {
-   "title": "The Reconstruction of Torn Documents",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
    "source": "Hacker News",
-   "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/"
+   "deep": "No summary today. Read it at https://www.anthropic.com/claude-fable-and-mythos-5-2"
   }
  ]
 }
