@@ -1,6 +1,13 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-10",
  "topics": [
+  {
+   "title": "Pax Machina - Institutions in a World with Powerful AI",
+   "source": "2026-reads",
+   "url": "https://paxmachina.ai/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://paxmachina.ai/"
+  },
   {
    "title": "The components of agent memory (Anthropic)",
    "source": "2026-reads",
@@ -30,32 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/pdf/2104.01778"
   },
   {
-   "title": "MusicRL: Aligning Music Generation to Human Preferences",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/pdf/2402.04229",
+   "title": ".name Grandfathered",
+   "source": "Hacker News",
+   "url": "https://neil.fraser.name/news/2026/11/10/",
    "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/pdf/2402.04229"
+   "deep": "No summary today. Read it at https://neil.fraser.name/news/2026/11/10/"
   },
   {
-   "title": "USPS now offers official ZIP Code boundary polygons",
+   "title": "Smart home devices should work without the internet",
    "source": "Hacker News",
-   "url": "https://postalpro.usps.com/zcb",
+   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
    "summary": "",
-   "deep": "No summary today. Read it at https://postalpro.usps.com/zcb"
+   "deep": "No summary today. Read it at https://docodethatmatters.com/home-automation-overnight-success/"
   },
   {
-   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "title": "AlphaProof Code",
    "source": "Hacker News",
-   "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
-  },
-  {
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "summary": "",
-   "deep": "No summary today. Read it at https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   "deep": "No summary today. Read it at https://deepmind.google/blog/introducing-alphaproof-code/"
   }
  ]
 }
