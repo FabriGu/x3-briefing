@@ -1,6 +1,27 @@
 {
- "generated": "2026-11-10",
+ "generated": "2026-11-11",
  "topics": [
+  {
+   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+   "source": "2026-reads",
+   "url": "https://arxiv.org/html/2611.10866v1",
+   "summary": "",
+   "deep": "No summary today. Read it at https://arxiv.org/html/2611.10866v1"
+  },
+  {
+   "title": "Neurons as an Interpretable Basis (Goodfire)",
+   "source": "2026-reads",
+   "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
+   "summary": "",
+   "deep": "No summary today. Read it at https://www.goodfire.com/research/neurons-as-an-interpretable-basis"
+  },
+  {
+   "title": "A new synthesis for the field of open-endedness (Lila Sciences)",
+   "source": "2026-reads",
+   "url": "https://www.lila.ai/news/a-new-synthesis-for-the-field-of-open-endedness",
+   "summary": "",
+   "deep": "No summary today. Read it at https://www.lila.ai/news/a-new-synthesis-for-the-field-of-open-endedness"
+  },
   {
    "title": "Pax Machina - Institutions in a World with Powerful AI",
    "source": "2026-reads",
@@ -16,46 +37,25 @@
    "deep": "No summary today. Read it at https://www.anthropic.com/research/components-of-agent-memory"
   },
   {
-   "title": "An AI Bubble is a human data problem",
-   "source": "2026-reads",
-   "url": "https://seanzcai.substack.com/p/an-ai-bubble-is-a-human-data-problem",
-   "summary": "",
-   "deep": "No summary today. Read it at https://seanzcai.substack.com/p/an-ai-bubble-is-a-human-data-problem"
-  },
-  {
-   "title": "Adapting Frechet Audio Distance for Generative Music Evaluation",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/pdf/2311.01616",
-   "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/pdf/2311.01616"
-  },
-  {
-   "title": "AST: Audio Spectrogram Transformer",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/pdf/2104.01778",
-   "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/pdf/2104.01778"
-  },
-  {
-   "title": ".name Grandfathered",
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
    "source": "Hacker News",
-   "url": "https://neil.fraser.name/news/2026/11/10/",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
    "summary": "",
-   "deep": "No summary today. Read it at https://neil.fraser.name/news/2026/11/10/"
+   "deep": "No summary today. Read it at https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
   },
   {
-   "title": "Smart home devices should work without the internet",
+   "title": "Tim Peters has died",
    "source": "Hacker News",
-   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+   "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
    "summary": "",
-   "deep": "No summary today. Read it at https://docodethatmatters.com/home-automation-overnight-success/"
+   "deep": "No summary today. Read it at https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
   },
   {
-   "title": "AlphaProof Code",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "source": "Hacker News",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "url": "https://pietromiotti.com/latest/maya-site/?maya",
    "summary": "",
-   "deep": "No summary today. Read it at https://deepmind.google/blog/introducing-alphaproof-code/"
+   "deep": "No summary today. Read it at https://pietromiotti.com/latest/maya-site/?maya"
   }
  ]
 }
