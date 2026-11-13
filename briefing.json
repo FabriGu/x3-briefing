@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12",
+ "generated": "2026-11-13",
  "topics": [
   {
    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://www.anthropic.com/research/components-of-agent-memory"
   },
   {
-   "title": "Jensen Huang resigns",
+   "title": "\"LibreOffice works 365 days a year. Just saying.\"",
    "source": "Hacker News",
-   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+   "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
    "summary": "",
-   "deep": "No summary today. Read it at https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+   "deep": "No summary today. Read it at https://twitter.com/LibreOffice/status/2121205272479998268"
   },
   {
-   "title": "Gemini 4 Hydrogen",
+   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
    "summary": "",
-   "deep": "No summary today. Read it at https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+   "deep": "No summary today. Read it at https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
   },
   {
-   "title": "Rust 1.100.0",
+   "title": "A technical vision for the Haskell ecosystem",
    "source": "Hacker News",
-   "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+   "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
    "summary": "",
-   "deep": "No summary today. Read it at https://github.com/rust-lang/rust/releases/tag/1.100.0"
+   "deep": "No summary today. Read it at https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
   }
  ]
 }
