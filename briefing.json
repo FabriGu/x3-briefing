@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "topics": [
   {
    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://www.anthropic.com/research/components-of-agent-memory"
   },
   {
-   "title": "\"LibreOffice works 365 days a year. Just saying.\"",
+   "title": "PyPI's redesigned project pages with clearer security signals are now live",
    "source": "Hacker News",
-   "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
    "summary": "",
-   "deep": "No summary today. Read it at https://twitter.com/LibreOffice/status/2121205272479998268"
+   "deep": "No summary today. Read it at https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
   },
   {
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "title": "KDE: The Documentary on Free Software [video]",
    "source": "Hacker News",
-   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
    "summary": "",
-   "deep": "No summary today. Read it at https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+   "deep": "No summary today. Read it at https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
   },
   {
-   "title": "A technical vision for the Haskell ecosystem",
+   "title": "Why get an expensive Pi when I have an old phone?",
    "source": "Hacker News",
-   "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+   "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
    "summary": "",
-   "deep": "No summary today. Read it at https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
+   "deep": "No summary today. Read it at https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
   }
  ]
 }
