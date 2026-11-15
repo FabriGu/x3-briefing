@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14",
+ "generated": "2026-11-15",
  "topics": [
   {
    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://www.anthropic.com/research/components-of-agent-memory"
   },
   {
-   "title": "PyPI's redesigned project pages with clearer security signals are now live",
+   "title": "All AI-generated code should be Open Source",
    "source": "Hacker News",
-   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "summary": "",
-   "deep": "No summary today. Read it at https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+   "deep": "No summary today. Read it at https://jakub.jankiewicz.org/blog/ai-code-open-source/"
   },
   {
-   "title": "KDE: The Documentary on Free Software [video]",
+   "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
    "source": "Hacker News",
-   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
    "summary": "",
-   "deep": "No summary today. Read it at https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
+   "deep": "No summary today. Read it at https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
   },
   {
-   "title": "Why get an expensive Pi when I have an old phone?",
+   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
    "source": "Hacker News",
-   "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+   "url": "https://prog21.dadgum.com/116.html",
    "summary": "",
-   "deep": "No summary today. Read it at https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
+   "deep": "No summary today. Read it at https://prog21.dadgum.com/116.html"
   }
  ]
 }
