@@ -1,6 +1,20 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "topics": [
+  {
+   "title": "The Value of Not Knowing: How Fresh Eyes through Naive LLMs Fuel Creativity",
+   "source": "2026-reads",
+   "url": "https://arxiv.org/html/2611.11725v1",
+   "summary": "",
+   "deep": "No summary today. Read it at https://arxiv.org/html/2611.11725v1"
+  },
+  {
+   "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox",
+   "source": "2026-reads",
+   "url": "https://arxiv.org/html/2611.11740v1",
+   "summary": "",
+   "deep": "No summary today. Read it at https://arxiv.org/html/2611.11740v1"
+  },
   {
    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
    "source": "2026-reads",
@@ -23,39 +37,25 @@
    "deep": "No summary today. Read it at https://www.lila.ai/news/a-new-synthesis-for-the-field-of-open-endedness"
   },
   {
-   "title": "Pax Machina - Institutions in a World with Powerful AI",
-   "source": "2026-reads",
-   "url": "https://paxmachina.ai/",
-   "summary": "",
-   "deep": "No summary today. Read it at https://paxmachina.ai/"
-  },
-  {
-   "title": "The components of agent memory (Anthropic)",
-   "source": "2026-reads",
-   "url": "https://www.anthropic.com/research/components-of-agent-memory",
-   "summary": "",
-   "deep": "No summary today. Read it at https://www.anthropic.com/research/components-of-agent-memory"
-  },
-  {
-   "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+   "title": "GPT6.2 Astra and Sol",
    "source": "Hacker News",
-   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
    "summary": "",
-   "deep": "No summary today. Read it at https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+   "deep": "No summary today. Read it at https://openai.com/index/introducing-gpt-6-2-astra-sol/"
   },
   {
-   "title": "Grazing sheep in fields with solar arrays",
+   "title": "Apple Services Down",
    "source": "Hacker News",
-   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+   "url": "https://developer.apple.com/system-status/",
    "summary": "",
-   "deep": "No summary today. Read it at https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"
+   "deep": "No summary today. Read it at https://developer.apple.com/system-status/"
   },
   {
-   "title": "Jiff 1.0: A datetime library for Rust",
+   "title": "MAI Code 2 and Code 2 Flash",
    "source": "Hacker News",
-   "url": "https://burntsushi.net/jiff/",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
    "summary": "",
-   "deep": "No summary today. Read it at https://burntsushi.net/jiff/"
+   "deep": "No summary today. Read it at https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
   }
  ]
 }
