@@ -1,61 +1,61 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "topics": [
   {
-   "title": "The Value of Not Knowing: How Fresh Eyes through Naive LLMs Fuel Creativity",
+   "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
    "source": "2026-reads",
-   "url": "https://arxiv.org/html/2611.11725v1",
+   "url": "https://arxiv.org/abs/2611.14487",
    "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/html/2611.11725v1"
+   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.14487"
   },
   {
-   "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox",
+   "title": "Discovering Neuron Communities in Language Models (Goodfire)",
    "source": "2026-reads",
-   "url": "https://arxiv.org/html/2611.11740v1",
+   "url": "https://www.goodfire.com/research/neuron-communities",
    "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/html/2611.11740v1"
+   "deep": "No summary today. Read it at https://www.goodfire.com/research/neuron-communities"
   },
   {
-   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+   "title": "Weight-edit minimization: replication notebook (alphaXiv, marimo)",
    "source": "2026-reads",
-   "url": "https://arxiv.org/html/2611.10866v1",
+   "url": "https://github.com/alphaXiv/weight-edit-minimization",
    "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/html/2611.10866v1"
+   "deep": "No summary today. Read it at https://github.com/alphaXiv/weight-edit-minimization"
   },
   {
-   "title": "Neurons as an Interpretable Basis (Goodfire)",
+   "title": "Same Fix, Different Weights: Replicating Weight-Space Programming with Claude",
    "source": "2026-reads",
-   "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
+   "url": "https://arxiv.org/abs/2611.20953",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.goodfire.com/research/neurons-as-an-interpretable-basis"
+   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.20953"
   },
   {
-   "title": "A new synthesis for the field of open-endedness (Lila Sciences)",
+   "title": "Just sort it! A note on the LP behind rank-one anti-loop edits",
    "source": "2026-reads",
-   "url": "https://www.lila.ai/news/a-new-synthesis-for-the-field-of-open-endedness",
+   "url": "https://arxiv.org/abs/2611.21432",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.lila.ai/news/a-new-synthesis-for-the-field-of-open-endedness"
+   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.21432"
   },
   {
-   "title": "GPT6.2 Astra and Sol",
+   "title": "Pre-auth RCE in Nginx HTTP/2 handling",
    "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
    "summary": "",
-   "deep": "No summary today. Read it at https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+   "deep": "No summary today. Read it at https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
   },
   {
-   "title": "Apple Services Down",
+   "title": "Seven new models at scalable price-performance",
    "source": "Hacker News",
-   "url": "https://developer.apple.com/system-status/",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
    "summary": "",
-   "deep": "No summary today. Read it at https://developer.apple.com/system-status/"
+   "deep": "No summary today. Read it at https://microsoft.ai/news/microsoft-ignite-2026/"
   },
   {
-   "title": "MAI Code 2 and Code 2 Flash",
+   "title": "Inside Deutsche Bank",
    "source": "Hacker News",
-   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "url": "https://www.inside-db.com/",
    "summary": "",
-   "deep": "No summary today. Read it at https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+   "deep": "No summary today. Read it at https://www.inside-db.com/"
   }
  ]
 }
