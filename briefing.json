@@ -1,6 +1,20 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "topics": [
+  {
+   "title": "Hierarchical Diffusion Transformer for End-to-End Image Generation",
+   "source": "2026-reads",
+   "url": "https://arxiv.org/abs/2611.22962",
+   "summary": "",
+   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.22962"
+  },
+  {
+   "title": "The short age of dragon riders (Antoine Tilloy)",
+   "source": "2026-reads",
+   "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
+  },
   {
    "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
    "source": "2026-reads",
@@ -23,39 +37,25 @@
    "deep": "No summary today. Read it at https://github.com/alphaXiv/weight-edit-minimization"
   },
   {
-   "title": "Same Fix, Different Weights: Replicating Weight-Space Programming with Claude",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/abs/2611.20953",
-   "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.20953"
-  },
-  {
-   "title": "Just sort it! A note on the LP behind rank-one anti-loop edits",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/abs/2611.21432",
-   "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.21432"
-  },
-  {
-   "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+   "title": "Anthropic hits $2T in Nasdaq debut",
    "source": "Hacker News",
-   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+   "deep": "No summary today. Read it at https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
   },
   {
-   "title": "Seven new models at scalable price-performance",
+   "title": "Claude solves two open problems in the physics of black holes",
    "source": "Hacker News",
-   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
    "summary": "",
-   "deep": "No summary today. Read it at https://microsoft.ai/news/microsoft-ignite-2026/"
+   "deep": "No summary today. Read it at https://www.anthropic.com/research/claude-black-hole-physics"
   },
   {
-   "title": "Inside Deutsche Bank",
+   "title": "Garage Door Spam",
    "source": "Hacker News",
-   "url": "https://www.inside-db.com/",
+   "url": "https://blog.harrison.page/garage-door-spam/",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.inside-db.com/"
+   "deep": "No summary today. Read it at https://blog.harrison.page/garage-door-spam/"
   }
  ]
 }
