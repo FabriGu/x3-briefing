@@ -1,6 +1,27 @@
 {
- "generated": "2026-11-19",
+ "generated": "2026-11-20",
  "topics": [
+  {
+   "title": "A Society of AI Scientists (alphaXiv)",
+   "source": "2026-reads",
+   "url": "https://www.alphaxiv.org/abs/2611.society-ai-scientists",
+   "summary": "",
+   "deep": "No summary today. Read it at https://www.alphaxiv.org/abs/2611.society-ai-scientists"
+  },
+  {
+   "title": "Transformers converge to invariant algorithmic cores",
+   "source": "2026-reads",
+   "url": "https://arxiv.org/html/2602.22600v3",
+   "summary": "",
+   "deep": "No summary today. Read it at https://arxiv.org/html/2602.22600v3"
+  },
+  {
+   "title": "I Spent a Year Talking to Anthropic Employees. Here's What They Believe. (Jasmine Sun, NYT Opinion)",
+   "source": "2026-reads",
+   "url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph",
+   "summary": "",
+   "deep": "No summary today. Read it at https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph"
+  },
   {
    "title": "Hierarchical Diffusion Transformer for End-to-End Image Generation",
    "source": "2026-reads",
@@ -16,46 +37,25 @@
    "deep": "No summary today. Read it at https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
   },
   {
-   "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-   "source": "2026-reads",
-   "url": "https://arxiv.org/abs/2611.14487",
-   "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.14487"
-  },
-  {
-   "title": "Discovering Neuron Communities in Language Models (Goodfire)",
-   "source": "2026-reads",
-   "url": "https://www.goodfire.com/research/neuron-communities",
-   "summary": "",
-   "deep": "No summary today. Read it at https://www.goodfire.com/research/neuron-communities"
-  },
-  {
-   "title": "Weight-edit minimization: replication notebook (alphaXiv, marimo)",
-   "source": "2026-reads",
-   "url": "https://github.com/alphaXiv/weight-edit-minimization",
-   "summary": "",
-   "deep": "No summary today. Read it at https://github.com/alphaXiv/weight-edit-minimization"
-  },
-  {
-   "title": "Anthropic hits $2T in Nasdaq debut",
+   "title": "Levent Alpoge claims proof of the Generalized Riemann Hypothesis [pdf]",
    "source": "Hacker News",
-   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "url": "https://alpo.ge/remark.pdf",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+   "deep": "No summary today. Read it at https://alpo.ge/remark.pdf"
   },
   {
-   "title": "Claude solves two open problems in the physics of black holes",
+   "title": "Language Models Can Rewrite Their Own Weights",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "url": "https://arxiv.org/abs/2611.21885",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.anthropic.com/research/claude-black-hole-physics"
+   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.21885"
   },
   {
-   "title": "Garage Door Spam",
+   "title": "I'll never buy Framework hardware again",
    "source": "Hacker News",
-   "url": "https://blog.harrison.page/garage-door-spam/",
+   "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
    "summary": "",
-   "deep": "No summary today. Read it at https://blog.harrison.page/garage-door-spam/"
+   "deep": "No summary today. Read it at https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/"
   }
  ]
 }
