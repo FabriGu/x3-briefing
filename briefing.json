@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20",
+ "generated": "2026-11-21",
  "topics": [
   {
    "title": "A Society of AI Scientists (alphaXiv)",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
   },
   {
-   "title": "Levent Alpoge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "title": "Lean verification of the Riemann Hypothesis",
    "source": "Hacker News",
-   "url": "https://alpo.ge/remark.pdf",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
    "summary": "",
-   "deep": "No summary today. Read it at https://alpo.ge/remark.pdf"
+   "deep": "No summary today. Read it at https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
   },
   {
-   "title": "Language Models Can Rewrite Their Own Weights",
+   "title": "Detonating a pile of lead azide",
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2611.21885",
+   "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
    "summary": "",
-   "deep": "No summary today. Read it at https://arxiv.org/abs/2611.21885"
+   "deep": "No summary today. Read it at https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
   },
   {
-   "title": "I'll never buy Framework hardware again",
+   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
    "source": "Hacker News",
-   "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
    "summary": "",
-   "deep": "No summary today. Read it at https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/"
+   "deep": "No summary today. Read it at https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
   }
  ]
 }
