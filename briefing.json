@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "topics": [
   {
    "title": "A Society of AI Scientists (alphaXiv)",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
   },
   {
-   "title": "Lean verification of the Riemann Hypothesis",
+   "title": "Perplexity and Intelligence",
    "source": "Hacker News",
-   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
    "summary": "",
-   "deep": "No summary today. Read it at https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+   "deep": "No summary today. Read it at https://openai.com/index/perplexity-and-intelligence/"
   },
   {
-   "title": "Detonating a pile of lead azide",
+   "title": "Open Social Web Alliance",
    "source": "Hacker News",
-   "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "url": "https://osw-alliance.net/en/",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+   "deep": "No summary today. Read it at https://osw-alliance.net/en/"
   },
   {
-   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
    "source": "Hacker News",
-   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+   "url": "https://github.com/gulivan/worker755",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+   "deep": "No summary today. Read it at https://github.com/gulivan/worker755"
   }
  ]
 }
