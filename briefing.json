@@ -1,6 +1,13 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "topics": [
+  {
+   "title": "WSP-Gym: an open model trained to repair networks (emeraldant)",
+   "source": "2026-reads",
+   "url": "https://emeraldant.github.io/WSP-Gym/",
+   "summary": "",
+   "deep": "No summary today. Read it at https://emeraldant.github.io/WSP-Gym/"
+  },
   {
    "title": "Research Intuition as a Retrieval Task (ScholarCatalyst, Stanford SAIL)",
    "source": "2026-reads",
@@ -30,32 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/html/2602.22600v3"
   },
   {
-   "title": "I Spent a Year Talking to Anthropic Employees. Here's What They Believe. (Jasmine Sun, NYT Opinion)",
-   "source": "2026-reads",
-   "url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph",
+   "title": "Active intrusion campaign against Check Point security management servers",
+   "source": "Hacker News",
+   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph"
+   "deep": "No summary today. Read it at https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
   },
   {
-   "title": "Nvidia Reinstates Jensen Huang as CEO",
+   "title": "Jetty Pro",
    "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "url": "http://hypercritical.co/2026/11/23/jetty-pro",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+   "deep": "No summary today. Read it at http://hypercritical.co/2026/11/23/jetty-pro"
   },
   {
-   "title": "Ladybird is now in alpha",
+   "title": "The Spray Bottle",
    "source": "Hacker News",
-   "url": "https://ladybird.org/posts/alpha/",
+   "url": "https://mechanical-pencil.com/products/spray-bottle",
    "summary": "",
-   "deep": "No summary today. Read it at https://ladybird.org/posts/alpha/"
-  },
-  {
-   "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-   "source": "Hacker News",
-   "url": "https://arm.jonpalmisc.com/",
-   "summary": "",
-   "deep": "No summary today. Read it at https://arm.jonpalmisc.com/"
+   "deep": "No summary today. Read it at https://mechanical-pencil.com/products/spray-bottle"
   }
  ]
 }
