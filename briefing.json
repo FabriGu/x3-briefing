@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "topics": [
   {
    "title": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications (Anthropic)",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/pdf/2611.25263"
   },
   {
-   "title": "1Password Security Incident",
+   "title": "AMD Specific Patches for Llama.cpp",
    "source": "Hacker News",
-   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "url": "https://devnull.land/amd-specific-llama-cpp",
    "summary": "",
-   "deep": "No summary today. Read it at https://1password.com/blog/update-on-nov-2026-security-incident"
+   "deep": "No summary today. Read it at https://devnull.land/amd-specific-llama-cpp"
   },
   {
-   "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+   "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
    "source": "Hacker News",
-   "url": "https://scottaaronson.blog/?p=10379",
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
    "summary": "",
-   "deep": "No summary today. Read it at https://scottaaronson.blog/?p=10379"
+   "deep": "No summary today. Read it at https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
   },
   {
-   "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+   "title": "YouTube Ad Punisher - Auto-reloads YouTube pages when an ad plays",
    "source": "Hacker News",
-   "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+   "url": "https://github.com/antonpictures/youtube-punisher",
    "summary": "",
-   "deep": "No summary today. Read it at https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
+   "deep": "No summary today. Read it at https://github.com/antonpictures/youtube-punisher"
   }
  ]
 }
