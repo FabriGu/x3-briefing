@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26",
+ "generated": "2026-11-27",
  "topics": [
   {
    "title": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications (Anthropic)",
@@ -37,25 +37,25 @@
    "deep": "No summary today. Read it at https://arxiv.org/pdf/2611.25263"
   },
   {
-   "title": "AMD Specific Patches for Llama.cpp",
+   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
    "source": "Hacker News",
-   "url": "https://devnull.land/amd-specific-llama-cpp",
+   "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
    "summary": "",
-   "deep": "No summary today. Read it at https://devnull.land/amd-specific-llama-cpp"
+   "deep": "No summary today. Read it at https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
   },
   {
-   "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
    "source": "Hacker News",
-   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "url": "https://github.com/convex/convex-backend-skill/issues/64",
    "summary": "",
-   "deep": "No summary today. Read it at https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+   "deep": "No summary today. Read it at https://github.com/convex/convex-backend-skill/issues/64"
   },
   {
-   "title": "YouTube Ad Punisher - Auto-reloads YouTube pages when an ad plays",
+   "title": "Show HN: bouncemarket - a live prediction market game for a bouncing ball",
    "source": "Hacker News",
-   "url": "https://github.com/antonpictures/youtube-punisher",
+   "url": "https://bouncemarket.minhanhday.com/",
    "summary": "",
-   "deep": "No summary today. Read it at https://github.com/antonpictures/youtube-punisher"
+   "deep": "No summary today. Read it at https://bouncemarket.minhanhday.com/"
   }
  ]
 }
